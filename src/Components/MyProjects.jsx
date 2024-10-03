@@ -15,8 +15,8 @@ const MyProjects = () => {
                 </h1>
             </div>            
             <div className="w-full mt-4 bg-lightBlackColor rounded-full">
-                <h1 className=" px-3 font-bold flex justify-between">Dog Breed Search 
-                    <a href="https://github.com/amirkhanali/Dog-Breed-Finder" target="_blank">
+                <h1 className=" px-3 font-bold flex justify-between">StarWar Search 
+                    <a href="https://github.com/amirkhanali/StarWar" target="_blank">
                         <FontAwesomeIcon className='cursor-pointer' icon={faGithub}/>
                     </a>
                 </h1>
